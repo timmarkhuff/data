@@ -1,0 +1,959 @@
+﻿Cust #,BillFirstName,BillLastName,BillEmail,BillCompany,BillAddress,BillAddress2,BillCity,BillState,BillZip,BillCountry,BillPhone,BillFax,ShipFirstName,ShipLastName,ShipEmail,ShipCompany,ShipAddress,ShipAddress2,ShipCity,ShipState,ShipZip,ShipCountry,ShipPhone,ShipFax,Custom Discount,Cust. Class,OptIn,TaxExempt,AccountNotes,Date Added,AdditionalEmails,Dob,ShipBirthDate,TaxFreeDrivingLicense,TaxFreeDrivingLicenseExpDate,TaxFreeLastName,TaxFreeFirstName,TaxFreeStateAbbrev,TabcNumber,SourceCodes,LoyaltyPointsAvailable,TotalCustomerValue,MemberAccountAvailableBalance
+9096,Laura,Rvzoo,captainrafiki88@gmail.com,,13456 Flag Way,,Paso Robles,CA,93446,UNITED STATES,145-666-9403,,Laura,Rvzoo,captainrafiki88@gmail.com,,13456 Fag Way,,Paso Robles,CA,93446,UNITED STATES,145-666-9403,,,Gold Club,No,No,,1/19/2021 11:21:53 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,1668,502.4,
+9098,Lisa,Silverman,lisa@op.org,,1233 Vine Street,,Paso Robles,CA,93446,UNITED STATES,123-123-1234,,,,lisa@op.org,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,1/20/2021 3:01:06 PM,,1/15/1960 12:00:00 AM,,,,,,,,,16740,3348,
+9099,Paul,Smith,paul@123.net,,234 Panorama Drive,,Paso Robles,CA,93446,UNITED STATES,123-456-7890,,,,paul@123.net,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,1/20/2021 3:04:56 PM,,1/16/1970 12:00:00 AM,,,,,,,,,15520,3104,
+9100,Joe,Jones,joe@123.net,,2362 Tractor Street,,Paso Robles,CA,93446,UNITED STATES,123-456-7890,,Joe,Jones,joe@123.net,,2362 Tractor Street,,Paso Robles,CA,93446,UNITED STATES,123-456-7890,,,Gold Club,Yes,No,,1/20/2021 3:06:31 PM,,2/1/1973 12:00:00 AM,2/1/1973 12:00:00 AM,,,,,,,,20508,4101.6,
+9101,Sally,Rose,sally@123.ne,,560 Las Tablas Road,,Templeton,CA,93465,UNITED STATES,123-456-7890,,Sally,Rose,sally@123.ne,,560 Las Tablas Road,,Templeton,CA,93465,UNITED STATES,123-456-7890,,,Gold Club,Yes,No,,1/20/2021 3:08:39 PM,,2/20/1980 12:00:00 AM,2/20/1980 12:00:00 AM,,,,,,,,20508,4677.6,
+9102,Jesse,Roads,Jesse@123.net,,566 Mississippi 6,,Batesville,MO,38606,UNITED STATES,234-156-7890,,Jesse,Roads,Jesse@123.net,,566 Mississippi 6,,Batesville,MO,38606,UNITED STATES,234-156-7890,,,Gold Club,No,No,,1/20/2021 3:12:09 PM,,2/19/1977 12:00:00 AM,,,,,,,,,0,,
+9103,Peter,Parker,peter@123.net,,479 West Braker Lane,,Austin,TX,78753,UNITED STATES,123-432-6789,,Peter,Parker,peter@123.net,,479 West Braker Lane,,Austin,TX,78753,UNITED STATES,123-432-6789,,,Gold Club,Yes,No,"(Date: 2021-08-25 15:24:20.3539510, Author: LauraOP, Note: Birthday this weekend. Pre buy a bottle of bubbles)    (Date: 2021-08-25 10:03:09.4946534, Author: LauraOP, Note: Reservation: Reservation Scheduled&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 08/27/2021&#x0D;
+	Time: 1:30 PM&#x0D;
+	Guests: 6&#x0D;
+	Reservation #: 160045&#x0D;
+	Order #: 3278&#x0D;
+Contact Person&#x0D;
+	Peter Parker&#x0D;
+	123-432-6789&#x0D;
+	peter@123.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-02-02 11:06:41.2560752, Author: LauraOP, Note: Approved 6 comp tastings)    (Date: 2021-01-20 15:50:47.1590552, Author: LauraOP, Note: Approved for 6 club tastings)",1/20/2021 3:14:35 PM,,3/6/1977 12:00:00 AM,3/6/1977 12:00:00 AM,,,,,,,,90972,20001.05,
+9104,Bruce,Wayne,bruce@123.op,,187 Gotham Street,,Chula Vista,CA,91910,UNITED STATES,123-098-7654,,Bruce,Wayne,bruce@123.op,,187 Gotham Street,,Chula Vista,CA,91910,UNITED STATES,123-098-7654,,,Gold Club,Yes,No,,1/20/2021 3:16:58 PM,,3/25/1988 12:00:00 AM,3/25/1988 12:00:00 AM,,,,,,,,14516,2903.2,
+9105,Tony,Stark,tony@op.po,,582 Ladle Lane,,Austin,TX,78734,UNITED STATES,123-678-0943,,Tony,Stark,tony@op.po,,582 Ladle Lane,,Austin,TX,78734,UNITED STATES,123-678-0943,,,Gold Club,No,No,"(Date: 2021-07-14 00:26:54.8988833, Author: LauraOP, Note: Big buyer comp cheese plate)",1/20/2021 3:32:57 PM,,4/8/1971 12:00:00 AM,4/8/1971 12:00:00 AM,,,,,,,,31865,7597.62,3.02
+9106,Pepper,Potts,pepper@op.po,,217 Ferro Lane,,Paso Robles,CA,93446,UNITED STATES,789-054-2678,,Pepper,Potts,pepper@op.po,,217 Ferro Lane,,Paso Robles,CA,93446,UNITED STATES,789-054-2678,,,Gold Club,Yes,No,,1/20/2021 3:35:24 PM,,5/8/1973 12:00:00 AM,5/8/1973 12:00:00 AM,,,,,,,,20508,4101.6,
+9107,Natasha,Romanoff,natasha@op.po,,879 Ford Road,,St. Louis Park,MN,55426,UNITED STATES,479-086-4321,,Natasha,Romanoff,natasha@op.po,,879 Ford Road,,St. Louis Park,MN,55426,UNITED STATES,479-086-4321,,,Gold Club,No,No,,1/20/2021 3:38:17 PM,,6/14/1985 12:00:00 AM,6/14/1985 12:00:00 AM,,,,,,,,0,,
+9108,Robby,Star,robby@op.po,,,,,,,UNITED STATES,,,Robby,Star,robby@op.po,,703 Truett Drive,,Tallahassee,FL,32303,UNITED STATES,000-000-0000,,,Consumer,No,No,,1/20/2021 3:57:11 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,210.01,
+9110,Evan,Taylor,evan@op.po,,229 Silver Oak Drive,,Paso Robles,CA,93446,UNITED STATES,123-456-8906,,,,evan@op.po,,,,,,,UNITED STATES,,,,Tier Case Club,No,No,,1/20/2021 7:26:42 PM,,7/28/1974 12:00:00 AM,,,,,,,,,0,,
+9111,Thomas,Noble,tom@op.po,,280 Righton Lane,,Chattanooga,TN,37416,UNITED STATES,098-765-4321,,Thomas,Noble,tom@op.po,,280 Righton Lane,,Chattanooga,TN,37416,UNITED STATES,098-765-4321,,,Silver Club,No,No,,1/20/2021 7:29:27 PM,,6/11/1993 12:00:00 AM,6/11/1993 12:00:00 AM,,,,,,,,0,,
+9112,Rob,Marquez,rob@op.po,,29976 Pocahontas Court,,Paso Robles,CA,93446,UNITED STATES,167-345-0982,,,,rob@op.po,,,,,,,UNITED STATES,,,,Consumer,No,No,,1/20/2021 7:33:00 PM,,11/18/1992 12:00:00 AM,,,,,,,,,0,318.75,
+9113,Harry,Potter,harry@po.op,,124 Hogwarts Circle,,Petaluma,CA,94954,UNITED STATES,345-789-0126,,Harry,Potter,harry@po.op,,124 Hogwarts Circle,,Petaluma,CA,94954,UNITED STATES,345-789-0126,,,Silver Club,Yes,No,,1/20/2021 7:36:43 PM,,9/10/1993 12:00:00 AM,9/10/1993 12:00:00 AM,,,,,,,,4796,1778.2,
+9114,Ron,Weasley,ron@op.po,,127 Hogwarts Drive,,Rives Junction,MI,49277,UNITED STATES,679-023-4567,,,,ron@op.po,,,,,,,UNITED STATES,,,,Consumer,No,No,,1/20/2021 7:40:56 PM,,12/12/1960 12:00:00 AM,,,,,,,,,0,,
+9116,Johnny,Bravo,johnny@op.po,,289 Muscles Trail,,Grand Forks,ND,02345,UNITED STATES,123-456-8907,,,,johnny@op.po,,,,,,,UNITED STATES,,,,Silver Club,Yes,No,,1/20/2021 7:44:35 PM,,8/20/1984 12:00:00 AM,,,,,,,,,0,,
+9117,Austin,Powers,austin@op.po,,12 Groovy Way,,Greenville,SC,29617,UNITED STATES,122-890-7654,,Austin,Powers,austin@op.po,,12 Groovy Way,,Greenville,SC,29617,UNITED STATES,122-890-7654,,,Gold Club,No,No,,1/20/2021 7:48:28 PM,,6/9/1969 12:00:00 AM,6/9/1969 12:00:00 AM,,,,,,,,0,,
+9118,Brittany,Spears,brittany@op.po,,12 Crossroads Boulevard,,Carmel-by-the-Sea,CA,93923,UNITED STATES,567-890-4321,,,,brittany@op.po,,,,,,,UNITED STATES,,,,Silver Club,Yes,No,,1/20/2021 7:52:58 PM,,10/23/1992 12:00:00 AM,,,,,,,,,4796,1778.2,
+9119,Ziggy,Stardust,Ziggy@op.po,,12 Bowie Place,,Irvine,CA,92602,UNITED STATES,389-076-5421,,Ziggy,Stardust,Ziggy@op.po,,12 Bowie Place,,Irvine,CA,92602,UNITED STATES,389-076-5421,,,Subscription Club,No,No,,1/20/2021 7:58:22 PM,,4/16/1997 12:00:00 AM,4/16/1997 12:00:00 AM,,,,,,,,0,43.8,288.8
+9132,Sally,Mae,sally@op.po,,1245 Spring Street,,Paso Robles,CA,93446,UNITED STATES,123-456-7890,,,,sally@op.po,,,,,,,UNITED STATES,,,,Consumer,No,No,,1/21/2021 10:56:54 AM,,5/25/1992 12:00:00 AM,,,,,,,,,0,,
+9139,Anna,Goldman,anna@op.po,,,,,,,UNITED STATES,,,Anna,Goldman,anna@op.po,,12367 California 33,,Gustine,CA,95322,UNITED STATES,890-765-4321,,,Gold Club,Yes,No,"(Date: 2021-07-22 14:01:32.2421705, Author: Customer, Note: Reservation: 2:00 PM / Carlos Reiner / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 2:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 146701&#x0D;
+	Order #: 3014&#x0D;
+Contact Person&#x0D;
+	Carlos Reiner&#x0D;
+	125-331-4896&#x0D;
+	cpjr90@gmail.com&#x0D;
+Notes: &#x0D;
+	n/a)",1/22/2021 6:21:31 PM,,1/1/1960 12:00:00 AM,,,,,,,,,200,40,
+9160,Steve,Rogers,steve@op.po,,456 Brooklyn Avenue,,Brooklyn,NY,11225,UNITED STATES,123-456-7890,,Steve,Rogers,steve@op.po,,,,,,,UNITED STATES,123-456-7890,,,Gold Club,No,No,,1/27/2021 1:10:17 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,756,151.2,
+9162,Jessica,Jones,jessica@op.po,,234 North Bethel Road,,Templeton,CA,93465,UNITED STATES,908-765-4321,,Jessica,Jones,jessica@op.po,,234 North Bethel Road,,Templeton,CA,93465,UNITED STATES,908-765-4321,,,Gold Club,Yes,No,,1/27/2021 1:39:14 PM,,,,,,,,,,,1880,376,
+9165,Damien,Dhark,damien@op.po,,2380 Adobe Road,,Paso Robles,CA,93446,UNITED STATES,765-432-1890,,Damien,Dhark,damien@op.po,,2380 Adobe Road,,Paso Robles,CA,93446,UNITED STATES,765-432-1890,,,Silver Club,Yes,No,,1/27/2021 1:43:33 PM,,,,,,,,,,,4796,1909.95,
+9167,Oliver,Queen,arrow@op.po,,268 Starling Drive,,Paso Robles,CA,93446,UNITED STATES,123-456-7890,,Oliver,Queen,arrow@op.po,,1254 1st,,Paso,CA,93446,UNITED STATES,123-456-7890,,,Subscription Club,No,No,,1/27/2021 2:08:12 PM,,,,,,,,,,,2224,444.8,360
+9171,Andy,Mints,andy@op.po,,,,,,,UNITED STATES,,,Andy,Mints,,,,,,,,UNITED STATES,123-456-7890,,,Gold Club,Yes,No,,1/27/2021 2:38:46 PM,,1/1/1960 12:00:00 AM,,,,,,,,,3032,606.45,
+9189,Case Test,Tester,casetest@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Case Club,No,No,,2/1/2021 5:36:38 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9199,Billy,Banner,Billybanner@op.net,,5678 West Tapps Highway East,,Bonney Lake,WA,98391,UNITED STATES,789-666-6666,,Billy,Banner,Billybanner@op.net,,4534 South Warner Street,,Tacoma,WA,98409,UNITED STATES,206-399-6100,,,Consumer,No,No,,2/2/2021 9:15:51 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,763,
+9217,Fred,Farmer,fredfarmer@op.net,,316 Martin Luther King Junior Way,,Tacoma,WA,98405,UNITED STATES,453-222-2111,,Fred,Farmer,fredfarmer@op.net,,316 Martin Luther King Junior Way,,Tacoma,WA,98405,UNITED STATES,453-222-2111,,,Tier Case Club,No,No,,2/3/2021 12:20:03 PM,,,,,,,,,,,0,89.3,
+9219,Brad,Roeber,gobr@op.net,,3717 NE 14th St,,Renton,WA,98056,UNITED STATES,555-555-5555,,Brad,Roeber,gobr@op.net,,3717 NE 14th St,,Renton,WA,98056,UNITED STATES,555-555-5555,,,Subscription Club,No,No,,2/3/2021 5:33:38 PM,,,,,,,,,,,0,,315
+9223,Ross,Hogin,ross@orderport.net,,3717 North 9th Street,,Tacoma,WA,98406,UNITED STATES,444-444-4444,,Ross,Hogin,ross@orderport.net,,3717 North 9th Street,,Tacoma,WA,98406,UNITED STATES,444-444-4444,,,Silver Club,Yes,No,,2/4/2021 4:54:26 PM,,,,,,,,,,,4796,1778.2,
+9224,Betty,Bond,bettybond@op.net,,6789 Banner Road Southeast,,Port Orchard,WA,98367,UNITED STATES,456-777-7888,,Betty,Bond,bettybond@op.net,,6789 Banner Road Southeast,,Port Orchard,WA,98367,UNITED STATES,456-777-7888,,,Silver Club,Yes,No,,2/4/2021 5:03:34 PM,,,,,,,,,,,4306,1655.8,
+9226,Ginger,Grant,gingergrant@op.net,,4532 South Puget Sound Avenue,,Tacoma,WA,98409,UNITED STATES,888-888-8888,,Ginger,Grant,gingergrant@op.net,,4532 South Puget Sound Avenue,,Tacoma,WA,98409,UNITED STATES,888-888-8888,,,Silver Club,No,No,,2/4/2021 5:09:41 PM,,,1/1/1960 12:00:00 AM,,,,,,,,0,,90
+9227,Mary,Rogers,maryrogers@op.net,,9879 43rd Place Northeast,,Seattle,WA,98115,UNITED STATES,678-999-9999,,Mary,Rogers,maryrogers@op.net,,9879 43rd Place Northeast,,Seattle,WA,98115,UNITED STATES,678-999-9999,,,Consumer,No,No,,2/4/2021 5:16:31 PM,,,,,,,,,,,0,,0
+9228,Mary,Belisle,marybelisle@op.net,,3717 North 34th Street,,Tacoma,WA,98407,UNITED STATES,897-777-6666,,Mary,Belisle,marybelisle@op.net,,3717 North 34th Street,,Tacoma,WA,98407,UNITED STATES,897-777-6666,,,Subscription Club,No,No,,2/4/2021 5:24:15 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,1089.3,45
+9241,Captain,Cuddles,cc@cc.co,,2467 South Elm Avenue,,Fresno,CA,93706,UNITED STATES,123-456-7890,,Steve,Rogers,steve@op.po,,456 Brooklyn Avenue,,Brooklyn,NY,11225,UNITED STATES,123-456-7890,,,Gold Club,Yes,No,,2/11/2021 9:15:31 AM,,,,,,,,,,,13296,2659.2,
+9246,Martha,Washington,martha@op.net,,5678 Southeast Burley Olalla Road,,Olalla,WA,98359,UNITED STATES,456-777-7777,,Martha,Washington,martha@op.net,,5678 Southeast Burley Olalla Road,,Olalla,WA,98359,UNITED STATES,456-777-7777,,,Consumer,No,No,,2/11/2021 11:59:44 AM,,,,,,,,,,,0,134.3,
+9257,Laura,Arvizu,laura@op.op,,543 Ferro Lane,,Paso Robles,CA,93446,UNITED STATES,123-456-7890,,Laura,Arvizu,laura@op.op,,543 Ferro Lane,,Paso Robles,CA,93446,UNITED STATES,123-456-7890,,,Silver Club,Yes,No,,2/15/2021 1:09:59 PM,,,,,,,,,,,5690,1879.35,
+9261,John,Huff,John324234@orderport.net,,,,,,,UNITED STATES,,,,,John324234@orderport.net,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/15/2021 2:44:30 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,,
+9276,Tim,Hopkins,timhopkins@op.net,,5690 Washington 302,,Belfair,WA,98528,UNITED STATES,456-333-2222,,Tim,Hopkins,timhopkins@op.net,,5690 Washington 302,,Belfair,WA,98528,UNITED STATES,456-333-2222,,,Consumer,No,No,,2/22/2021 1:38:29 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,,
+9280,Brenda,Bird,brendabird@op.net,,,,,,,UNITED STATES,345-666-6666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/23/2021 3:29:29 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9281,David,Taylor,dt@op.po,,,,,,,UNITED STATES,345-677-9902,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/23/2021 3:35:58 PM,,6/1/1960 12:00:00 AM,,,,,,,,,0,,
+9282,Brenda,Blue,brendablue@op.net,,,,,,,UNITED STATES,345-678-9999,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/23/2021 3:39:28 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9287,Matt,Payne,matt@paynemedia.com,,Test Drive,,Chattanooga,TN,37421,UNITED STATES,4255551212,,,,,,,,,,,UNITED STATES,,,,Gold Club,No,No,,2/23/2021 5:58:21 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9292,Fanny,Filson,fannyfilson@op.net,,,,,,,UNITED STATES,456-777-7777,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Consumer,No,No,,2/24/2021 1:41:45 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9293,Branson,Billing,Bransonbilling@op.net,,,,,,,UNITED STATES,0000000000,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/24/2021 2:00:20 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9294,Marvin,Meeks,Marvinmeeks@op.net,,,,,,,UNITED STATES,0000000000,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/25/2021 10:07:22 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9295,Rich,Ransom,Richransom@op.net,,,,,,,UNITED STATES,0000000000,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/25/2021 10:38:31 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9296,Tuna,Fish,tunafis@op.net,,,,,,,UNITED STATES,345-666-6666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/25/2021 1:24:10 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9297,Sandy,Fish,Sandyfish@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/25/2021 1:29:02 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,39,
+9300,Bob,Ross,bobby@ross.pi,,2678 Bob Ross Road,,Stearns,KY,42647,UNITED STATES,567-894-3210,,,,,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,2/25/2021 2:29:07 PM,,10/20/1954 12:00:00 AM,,,,,,,,,2656,531.2,
+9301,Frank,Foot,frankfoot@op.net,,3456 53rd Avenue Northeast,,Tacoma,WA,98422,UNITED STATES,345-666-6666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/25/2021 2:35:37 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9302,Fnjsbdc,Bbcbdsc,hinedff@orderport.net,,12826 Southeast 40th Lane,,Bellevue,WA,98006,UNITED STATES,555-555-5555,,,,,,,,,,,UNITED STATES,,,,Silver Club,Yes,No,,2/25/2021 3:16:14 PM,,1/1/1960 12:00:00 AM,,,,,,,,,4796,1655.8,
+9304,Matt,Payhee,payhee@orderport.net,,7865 West Mercer Way,,Mercer Island,WA,98040,UNITED STATES,425-555-6666,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Gold Club,Yes,No,,2/25/2021 3:35:28 PM,,1/1/1960 12:00:00 AM,,,,,,,,,11412,2282.4,
+9306,Carl,Summers,Carlsummers@op.net,,,,,,,UNITED STATES,345-222-1111,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Consumer,No,No,,2/26/2021 11:58:25 AM,,1/1/1962 12:00:00 AM,,,,,,,,,0,,
+9308,Vic,Viper,vicviper@op.net,,,,,,,UNITED STATES,456-777-7999,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/26/2021 2:26:16 PM,,1/1/1966 12:00:00 AM,,,,,,,,,0,55,
+9309,Harry,Banks,harrybanks@op.net,,3456 Northeast 3rd Street North,,Bremerton,WA,98311,UNITED STATES,234-222-2222,,,,,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,2/26/2021 2:37:32 PM,,1/1/1966 12:00:00 AM,,,,,,,,,7956,1591.2,
+9311,Roland,Tide,rolandtide@op.net,,34596 56th Ct S,,Auburn,WA,98001,UNITED STATES,234-222-1111,,,,,,,,,,,UNITED STATES,,,,Silver Club,Yes,No,,2/26/2021 2:55:14 PM,,1/1/1957 12:00:00 AM,,,,,,,,,4306,1492.2,
+9312,Rufus,Manners,Rufusmanners@op.net,,,,,,,UNITED STATES,234-543-1111,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/26/2021 2:58:13 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9314,Charlie,Bitme,Ouch@charlie.co,,6895 Speedway Boulevard,,Las Vegas,NV,89115,UNITED STATES,8907654321,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/26/2021 3:05:55 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9320,Glen,Glenn,glenglenn@op.net,,,,,,,UNITED STATES,453-222-1111,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,2/26/2021 7:37:34 PM,,1/1/1972 12:00:00 AM,,,,,,,,,0,,
+9323,Eddie,Edwards,eddieedwards@op.net,,,,,,,UNITED STATES,345-666-6666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/1/2021 8:48:18 AM,,6/1/1960 12:00:00 AM,,,,,,,,,0,,
+9328,Baby,Ruth,babyruth@op.net,,2309 South Tacoma Way,,Tacoma,WA,98409,UNITED STATES,345-777-7777,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/1/2021 3:19:17 PM,,12/1/1960 12:00:00 AM,,,,,,,,,0,71.85,
+9330,Mars,Barr,marsbarr@op.net,,,,,,,UNITED STATES,456-789-0432,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/1/2021 3:25:35 PM,,10/1/1964 12:00:00 AM,,,,,,,,,0,10,
+9331,Jason,Hathaway,jason@mail.com,,,,,,,UNITED STATES,206-464-1151,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/1/2021 3:45:57 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9332,Milky,Way,milkyway@op.net,,4566 South Puget Sound Avenue,,Tacoma,WA,98409,UNITED STATES,435-666-6666,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Gold Club,Yes,No,,3/1/2021 3:51:04 PM,,4/1/1963 12:00:00 AM,,,,,,,,,0,,
+9340,Carol,Toller,Gavingrant@outloo.com,,Test Drive,,Chattanooga,TN,37421,UNITED STATES,555-555-5555,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/2/2021 3:34:23 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,10,
+9341,Gavin,Grant,gavingrant@outlook.com,,Test Drive,,Chattanooga,TN,37421,UNITED STATES,666-666-6666,,,,,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,3/2/2021 3:43:09 AM,,1/1/1964 12:00:00 AM,,,,,,,,,0,,
+9342,Rick,Belle,rickbelle@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/2/2021 9:59:12 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9345,Jordan,Griffin,Jordan@orderport.net,,12345 Southeast 23rd Place,,Bellevue,WA,98005,UNITED STATES,555-555-5555,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Consumer,No,No,,3/2/2021 10:20:36 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,57.05,
+9346,Jordan,Iscool,Jordan1@orderport.net,,,,,,,UNITED STATES,,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Consumer,No,No,,3/2/2021 10:25:17 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9347,Jordan,Griffin1,Jordan2@orderport.net,,,,,,,UNITED STATES,,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Consumer,No,No,,3/2/2021 10:26:47 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9349,Beverly,Hills,bev@hills.op,,,,,,,UNITED STATES,421-578-9065,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/2/2021 10:30:39 AM,,5/5/1976 12:00:00 AM,,,,,,,,,0,,
+9350,Rufus,Rice,Rufusrice@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/2/2021 11:21:13 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9353,Rick,Wilson,rickwilson@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 8:17:56 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9355,Rick,Wilson,Rickwilson@oppp.net,,1234 East 2nd Street,,Port Angeles,WA,98362,UNITED STATES,675-888-8888,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 8:24:51 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9356,Marilyn,Monroe,marilyn@op.po,,589 Hollywood Boulevard,,Los Angeles,CA,90027,UNITED STATES,222-222-2222,,,,,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,3/3/2021 8:50:03 AM,,8/3/1952 12:00:00 AM,,,,,,,,,0,,
+9357,Will,Smith,will@smith.co,,,,,,,UNITED STATES,244-444-4444,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 8:55:55 AM,,4/18/1973 12:00:00 AM,,,,,,,,,0,,
+9358,Bruce,Lee,Bruce@lee.op,,3678 Bridgeport Court,,San Jose,CA,95117,UNITED STATES,666-666-6666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 9:09:48 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9363,James,Dean,james.d@gmail.net,OrderPort,12826 SE 40th LN,200,Bellevue,WA,98006,UNITED STATES,425-123-4567,,James,Dean,james.d@gmail.net,OrderPort,12826 SE 40th LN,200,Bellevue,WA,98006,UNITED STATES,425-123-4567,,,Gold Club,Yes,No,,3/3/2021 12:37:46 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,5389,1739.35,
+9364,Jack,Lemmon,jacklemmon@op.net,,3476 West Blaine Street,,Seattle,WA,98199,UNITED STATES,206-432-1212,,,,,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,3/3/2021 4:23:33 PM,,1/1/1935 12:00:00 AM,,,,,,,,,0,,
+9366,Tony,Curtis,tonycurtis@op.net,,,,,,,UNITED STATES,345-666-6000,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 4:27:33 PM,,1/1/1948 12:00:00 AM,,,,,,,,,0,,
+9367,Tony,Curtis,Tonycurtis@opppp.net,,3456 Northeast 3rd Street North,,Bremerton,WA,98311,UNITED STATES,678-543-6666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 4:37:14 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9369,Freddy,Foot,freddythefoot@op.net,,,,,,,UNITED STATES,206-399-6100,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 4:55:37 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9371,Wilma,Foot,footwilma@op.net,,,,,,,UNITED STATES,345-321-2333,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 4:59:48 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9372,Wilma,Foot,leftfootwilma@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/3/2021 5:05:50 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9373,Nat,Avaleratest,Nat@mail.com,,30808 aurora ave east,,bellevue,WA,789090,UNITED STATES,206-464-1151,,,,,,,,,,,UNITED STATES,,,,Consumer,No,Yes,,3/4/2021 12:45:15 PM,,1/1/1960 12:00:00 AM,,916YAY,,Pa,Na,WA,,,0,,
+9379,Mia,Mondale,miamondale@op.net,,,,,,,UNITED STATES,345-666-6666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/5/2021 8:01:35 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9384,Sandy,Floor,sandyfloor@op.net,,,,,,,UNITED STATES,234-555-4321,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/5/2021 3:44:32 PM,,1/1/1964 12:00:00 AM,,,,,,,,,0,,
+9385,Francis,Farmer,francisfarmer@op.net,,,,,,,UNITED STATES,433-366-6666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/5/2021 3:51:51 PM,,1/1/1957 12:00:00 AM,,,,,,,,,0,,
+9386,Billy,Bud,billybud@op.net,,6789 Northwest Segerman Lane,,Silverdale,WA,98383,UNITED STATES,456-987-6655,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/5/2021 3:54:17 PM,,2/1/1960 12:00:00 AM,,,,,,,,,0,,
+9387,Mark,More,marymore@op.net,,,,,,,UNITED STATES,456-789-9999,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/5/2021 3:59:30 PM,,1/14/1960 12:00:00 AM,,,,,,,,,0,,
+9388,Dan,Daniels,dandaniels@op.net,,,,,,,UNITED STATES,456-777-7888,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/5/2021 4:10:04 PM,,1/1/1963 12:00:00 AM,,,,,,,,,0,,
+9389,Howie,Le,howie@orderport.net,,,,,,,UNITED STATES,206-464-1151,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/5/2021 4:14:49 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9390,Howie,Test,howie1@orderport.net,,12826 Southeast 40th Lane,,Bellevue,WA,98006,UNITED STATES,206-464-1151,,Howie,Test,howie1@orderport.net,,12826 Southeast 40th Lane,,Bellevue,WA,98006,UNITED STATES,206-464-1151,,,Silver Club,Yes,No,,3/5/2021 4:27:22 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,4796,1655.8,
+9397,Test,Accoun,test@account.mhg,,Test Drive,,Chattanooga,TN,37421,UNITED STATES,555-555-5555,,Test,Accoun,test@account.mhg,,Test Drive,,Chattanooga,TN,37421,UNITED STATES,555-555-5555,,,Gold Club,No,No,,3/8/2021 6:27:54 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,,
+9399,Cade,Chambers,cadechambers@op.net,,2345 Rainier Avenue South,,Seattle,WA,98144,UNITED STATES,456-777-7777,,Cade,Chambers,cadechambers@op.net,,2345 Rainier Avenue South,,Seattle,WA,98144,UNITED STATES,456-777-7777,,,Silver Club,No,No,,3/8/2021 7:26:31 AM,,1/1/1964 12:00:00 AM,1/1/1964 12:00:00 AM,,,,,,,,0,,
+9400,George,Rush,georgerush@op.net,,4563 33rd Avenue South,,Seattle,WA,98118,UNITED STATES,345-666-6777,,George,Rush,georgerush@op.net,,4563 33rd Avenue South,,Seattle,WA,98118,UNITED STATES,345-666-6777,,,Silver Club,Yes,No,,3/8/2021 7:28:56 AM,,8/1/1960 12:00:00 AM,8/1/1960 12:00:00 AM,,,,,,,,4796,1655.8,
+9401,Belinda,Bell,belindabell@op.net,,8709 161st Avenue Northeast,,Redmond,WA,98052,UNITED STATES,666-664-4444,,Belinda,Bell,belindabell@op.net,,8709 161st Avenue Northeast,,Redmond,WA,98052,UNITED STATES,666-664-4444,,,Subscription Club,No,No,,3/8/2021 7:37:30 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,,45
+9402,Harry,Jones,harryjones@op.net,,7623 115th Pl NE,,Kirkland,WA,98033,UNITED STATES,456-777-7773,,Harry,Jones,harryjones@op.net,,7623 115th Pl NE,,Kirkland,WA,98033,UNITED STATES,456-777-7773,,,Silver Club,No,No,,3/8/2021 7:39:13 AM,,1/1/1965 12:00:00 AM,1/1/1965 12:00:00 AM,,,,,,,,0,,
+9403,Nancy,Reagan,nancyreagan@op.net,,2678 Locker Road Southeast,,Port Orchard,WA,98366,UNITED STATES,345-666-7777,,Nancy,Reagan,nancyreagan@op.net,,2678 Locker Road Southeast,,Port Orchard,WA,98366,UNITED STATES,345-666-7777,,,Gold Club,Yes,No,,3/8/2021 7:44:55 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,128,25.6,
+9404,Daniel,Zollo,dz@op.po,,777 South Alameda Street,,Los Angeles,CA,90021,UNITED STATES,777-777-7777,,Daniel,Zollo,dz@op.po,,777 South Alameda Street,,Los Angeles,CA,90021,UNITED STATES,777-777-7777,,,Silver Club,Yes,No,,3/8/2021 8:22:31 AM,,10/26/1971 12:00:00 AM,10/26/1971 12:00:00 AM,,,,,,,,4796,1655.8,
+9406,Tricia,Record,tr@po.op,,3334 North San Fernando Road,,Los Angeles,CA,90065,UNITED STATES,666-666-6777,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Gold Club,Yes,No,,3/8/2021 11:19:39 AM,,8/1/1981 12:00:00 AM,,,,,,,,,1870,373.93,
+9409,Sailor,Parrott,Sailorparrott@op.net,,,,,,,UNITED STATES,234-567-8765,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/8/2021 1:51:43 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9410,Nancy,Lewis,Nancylewis@op.net,,,,,,,UNITED STATES,206-399-6100,,Nancy,Lewis,nancylewia@op.net,,4563 33rd Avenue South,,Seattle,WA,98118,UNITED STATES,206-399-6100,,,Consumer,No,No,,3/8/2021 1:57:53 PM,,4/1/1965 12:00:00 AM,1/1/1959 12:00:00 AM,,,,,,,,0,,
+9416,Martin,Tall,martintall@op.net,,9987 Pettit Place Northeast,,Bainbridge Island,WA,98110,UNITED STATES,206-399-6100,,Martin,Tall,martintall@op.net,,9987 Pettit Place Northeast,,Bainbridge Island,WA,98110,UNITED STATES,206-399-6100,,,Subscription Club,No,No,,3/9/2021 12:58:09 PM,,1/1/1969 12:00:00 AM,1/1/1969 12:00:00 AM,,,,,,,,0,107,45
+9420,Martin,Need,martinneed@op.net,,12655 120th Avenue Northeast,,Kirkland,WA,98034,UNITED STATES,206-464-1151,,Martin,Need,martinneed@op.net,,12655 120th Avenue Northeast,,Kirkland,WA,98034,UNITED STATES,206-464-1151,,,Subscription Club,No,No,,3/10/2021 9:06:10 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,37.2,45
+9423,Laura,Arvizu,laura@lo.op,,24560 Silver Cloud Court,,Monterey,CA,93940,UNITED STATES,222-222-2222,,Laura,Arvizu,laura@lo.op,,24560 Silver Cloud Court,,Monterey,CA,93940,UNITED STATES,222-222-2222,,,Gold Club,Yes,No,"(Date: 2021-08-02 14:59:49.0352712, Author: Customer, Note: Reservation: 3:00 PM / Laura Arvizu / 5 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 08/05/2021&#x0D;
+	Time: 3:00 PM&#x0D;
+	Guests: 5&#x0D;
+	Reservation #: 151208&#x0D;
+	Order #: 3075&#x0D;
+	Prepaid: $110.10&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	222-222-2222&#x0D;
+	laura@lo.op&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-23 11:29:07.3558288, Author: Customer, Note: Reservation: 1:00 PM / Laura Arvizu / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 1:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 147119&#x0D;
+	Order #: 3020&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	222-222-2222&#x0D;
+	laura@lo.op&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-22 14:49:12.3079586, Author: Customer, Note: Reservation: 1:00 PM / Laura Arvizu / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 1:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 146757&#x0D;
+	Order #: 3016&#x0D;
+	Prepaid: $44.04&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	222-222-2222&#x0D;
+	laura@lo.op&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-22 12:09:13.1996569, Author: Customer, Note: Reservation: 4:00 PM / Laura Arvizu / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/23/2021&#x0D;
+	Time: 4:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 146608&#x0D;
+	Order #: 3013&#x0D;
+	Prepaid: $44.04&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	222-222-2222&#x0D;
+	laura@lo.op&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-22 11:42:09.1016878, Author: Customer, Note: Reservation: 5:00 PM / Laura Arvizu / 6 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/30/2021&#x0D;
+	Time: 5:00 PM&#x0D;
+	Guests: 6&#x0D;
+	Reservation #: 146584&#x0D;
+	Order #: 2982&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	222-222-2222&#x0D;
+	laura@lo.op&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-21 13:08:32.8794529, Author: Customer, Note: Reservation: 5:00 PM / Laura Arvizu / 4 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/30/2021&#x0D;
+	Time: 5:00 PM&#x0D;
+	Guests: 4&#x0D;
+	Reservation #: 146152&#x0D;
+	Order #: 2973&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	222-222-2222&#x0D;
+	laura@lo.op&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-21 10:57:41.7914367, Author: Customer, Note: Reservation: 4:00 PM / Laura Arvizu / 6 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 4:00 PM&#x0D;
+	Guests: 6&#x0D;
+	Reservation #: 146072&#x0D;
+	Order #: 2967&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	222-222-2222&#x0D;
+	laura@lo.op&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-20 16:00:05.7373433, Author: Customer, Note: Reservation: 11:30 AM / Laura Arvizu / 6 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 07/30/2021&#x0D;
+	Time: 11:30 AM&#x0D;
+	Guests: 6&#x0D;
+	Reservation #: &#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	222-222-2222&#x0D;
+	laura@lo.op&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-06-29 16:32:17.5370053, Author: LauraOP, Note: Event Note Example)",3/10/2021 9:58:37 AM,,7/9/1980 12:00:00 AM,,,,,,,,,46627,9325.5,
+9426,Matt,Fun,matt@orderport.net,,,,,,,UNITED STATES,425-213-6645,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/10/2021 4:07:58 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9427,Mary,Lee,mary@orderport.net,,12826 SE 40th Ln,#200,Bellevue,WA,98006,UNITED STATES,206-464-1151,,Mary,Lee,mary@orderport.net,,12826 SE 40th Ln,#200,Bellevue,WA,98006,UNITED STATES,206-464-1151,,,Consumer,No,No,,3/11/2021 9:26:00 AM,,1/1/1996 12:00:00 AM,1/1/1996 12:00:00 AM,,,,,,,,0,40,
+9430,MATTHEW,PAYNE,mattllll@orderport.net,,gggggg,,ggg1,WA,98006,UNITED STATES,454-544-3535,,MATTHEW,PAYNE,mattllll@orderport.net,,gggggg,,ggg1,WA,98006,UNITED STATES,454-544-3535,,,Gold Club,No,No,,3/12/2021 11:33:14 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,1668,333.6,
+9431,You,Youtoo,Youtoo@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/12/2021 11:34:04 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9432,MATTHEW,PAYNE,Hhhhhhhh@orderport.net,,vvgcch,,afoijc,WA,98006,UNITED STATES,555-555-5555,,MATTHEW,PAYNE,Hhhhhhhh@orderport.net,,ggvvyvv,,gububub,WA,98006,UNITED STATES,555-555-5555,,,Gold Club,No,No,,3/12/2021 11:36:35 AM,,12/13/1960 12:00:00 AM,12/13/1960 12:00:00 AM,,,,,,,,0,,
+9435,Bill,Bennett,billbennett@op.net,,2765 Northwest 49th Avenue,,Ocala,FL,34482,UNITED STATES,456-778-8888,,Bill,Bennett,billbennett@op.net,,2765 Northwest 49th Avenue,,Ocala,FL,34482,UNITED STATES,456-778-8888,,,Subscription Club,No,No,,3/12/2021 11:54:40 AM,,1/1/1965 12:00:00 AM,1/1/1965 12:00:00 AM,,,,,,,,0,,45
+9436,Fred,Smith,fredsmith@op.net,,5678 West Irlo Bronson Memorial Highway,,Kissimmee,FL,34746,UNITED STATES,345-321-4444,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/12/2021 12:01:54 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9439,Paul,Smith,paul@op.po,,4567 West 120th Street,,Hawthorne,CA,90250,UNITED STATES,334-567-7890,,Paul,Smith,paul@op.po,,4567 West 120th Street,,Hawthorne,CA,90250,UNITED STATES,334-567-7890,,,Gold Club,Yes,No,,3/16/2021 12:17:29 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,14516,3151.2,
+9443,RICK,BELISLE,Rick@yahooooo.com,,,,,,,UNITED STATES,234-555-6789,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/16/2021 6:27:36 PM,,1/2/1959 12:00:00 AM,,,,,,,,,0,,
+9450,Mindy,Mason,Mindymason@op.net,,7890 81st Pl SE,,Mercer Island,WA,98040,UNITED STATES,453-232-3111,,Mindy,Mason,Mindymason@op.net,,7890 81st Pl SE,,Mercer Island,WA,98040,UNITED STATES,342-543-2121,,,Subscription Club,No,No,,3/19/2021 4:03:01 PM,,1/1/1960 12:00:00 AM,1/1/1953 12:00:00 AM,,,,,,,,0,89.49,45
+9477,Anna,Parrott,annaparrott@op.net,,45672 Duquesne Street,,Indio,CA,92201,UNITED STATES,678-998-7666,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/27/2021 11:53:33 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9478,Anna,Parrott,annaparrott2@op.net,http://www.orderport.net,"12826 SE 40th Lane, Suite 200",,Bellevue,WA,98006,UNITED STATES,206-399-6100,,Anna,Parrott,annaparrott2@op.net,http://www.orderport.net,"12826 SE 40th Lane, Suite 200",,Bellevue,WA,98006,UNITED STATES,206-399-6100,,,Silver Club,Yes,No,,3/27/2021 12:05:39 PM,,12/13/1983 12:00:00 AM,12/13/1983 12:00:00 AM,,,,,,,,4796,1391.25,
+9479,Titi,Orderport,test@test.com,devop,123 Main Street,,New York,NY,12345,UNITED STATES,111-111-1111,,Titi,Orderport,test@test.com,devop,123 Main Street,,New York,NY,12345,UNITED STATES,111-111-1111,,,Consumer,Yes,No,,3/28/2021 11:46:34 PM,,1/1/1990 12:00:00 AM,1/1/1990 12:00:00 AM,,,,,,,,0,336,
+9480,Laura,Arvizu,laura.a@orderport.net,OrderPort Winery Solutions,12826 SE 40th LN,Suite 200,Bellevue,WA,98006,UNITED STATES,180-583-5745,,Laura,Arvizu,laura.a@orderport.net,OrderPort Winery Solutions,12826 SE 40th LN,Suite 200,Bellevue,WA,98006,UNITED STATES,180-583-5745,,,Subscription Club,Yes,No,"(Date: 2021-03-29 10:07:58.7275683, Author: Customer, Note: Reservation: 2:30 Laura Arvizu 4 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Tasting Room&#x0D;
+	Date: 04/01/2021&#x0D;
+	Time: 2:30 PM&#x0D;
+	Guests: 4&#x0D;
+	Reservation #: 89254&#x0D;
+	Order #: 1911&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	18058357457&#x0D;
+	laura.a@orderport.net&#x0D;
+Notes: &#x0D;
+	Celebrating Birthday)",3/29/2021 10:01:15 AM,,5/28/1995 12:00:00 AM,5/28/1995 12:00:00 AM,,,,,,,Friend;,0,421,270
+9482,Natalie,Payne,natalieepaynee@gmall.com,,3800 Aurora AVE N,,seattle,WA,98103,UNITED STATES,206-464-1151,,Natalie,Payne,natalieepaynee@gmall.com,,3800 Aurora AVE N,,seattle,WA,98103,UNITED STATES,206-464-1151,,,Consumer,Yes,No,,3/29/2021 5:33:48 PM,,7/4/1997 12:00:00 AM,7/4/1997 12:00:00 AM,,,,,,,,0,,
+9483,Natalie,Payne,natalieepaynee@gmail.com,,,,,,,UNITED STATES,2064641151,,Natalie,Payne,natalieepaynee@gmail.com,,,,,,,UNITED STATES,2064641151,,,Consumer,No,No,,3/29/2021 5:39:04 PM,,,,,,,,,,,0,,
+9493,Harry,Hammer,Harryhammer@op.net,,34560 Bob Hope Drive,,Rancho Mirage,CA,92270,UNITED STATES,206-399-6100,,Harry,Hammer,Harryhammer@op.net,,34560 Bob Hope Drive,,Rancho Mirage,CA,92270,UNITED STATES,206-399-6100,,,Silver Club,Yes,No,,3/31/2021 4:18:51 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,4796,1428.85,
+9494,RICK,BELISLE,Rickbel@op.net,,,,,,,UNITED STATES,,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Consumer,No,No,,3/31/2021 4:25:45 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9495,RICK,BELISLE,Rtyu@op.wine,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/31/2021 4:32:28 PM,,1/2/1959 12:00:00 AM,,,,,,,,,0,,
+9496,Nanny,Jones,nannyjones@op.net,,56780 Jack Nicklaus Boulevard,,La Quinta,CA,92253,UNITED STATES,456-778-8888,,,,,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,3/31/2021 4:35:48 PM,,11/30/1960 12:00:00 AM,,,,,,,,,664,223.8,
+9497,Mandy,Mopit,mandymopit@op.net,,2354 Dunlop Court,,Colton,CA,92324,UNITED STATES,567-890-7777,,Mandy,Mopit,mandymopit@op.net,,2354 Dunlop Court,,Colton,CA,92324,UNITED STATES,567-890-7777,,,Silver Club,Yes,No,,3/31/2021 5:43:23 PM,,11/7/1953 12:00:00 AM,11/7/1953 12:00:00 AM,,,,,,,,4796,1428.85,
+9498,Franny,Flag,frannyflag@op.net,,45682 Towne Street,,Indio,CA,92201,UNITED STATES,543-678-9999,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,3/31/2021 6:26:41 PM,,11/1/1963 12:00:00 AM,,,,,,,,,0,10,
+9499,Mihai,Scutariu,mihai.sc@orderport.net,,123 main st,,Bellevue,WA,98006,UNITED STATES,211-111-1111,,Mihai,Scutariu,mihai.sc@orderport.net,,123 main st,,Bellevue,WA,98006,UNITED STATES,211-111-1111,,,Consumer,Yes,No,"(Date: 2021-07-23 06:11:07.4372894, Author: Customer, Note: Reservation: 2:00 PM / Mihai Scutariu / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 2:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 146980&#x0D;
+	Order #: 3019&#x0D;
+	Prepaid: $44.04&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	111-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-23 06:09:50.9932282, Author: Customer, Note: Reservation: 11:00 AM / Mihai Scutariu / 2 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 11:00 AM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 146979&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	111-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-22 07:57:11.9721281, Author: Customer, Note: Reservation: 5:00 PM / Mihai Scutariu / 4 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 5:00 PM&#x0D;
+	Guests: 4&#x0D;
+	Reservation #: 146431&#x0D;
+	Order #: 2976&#x0D;
+	Prepaid: $88.08&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	111-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	test notes)    (Date: 2021-07-22 07:55:46.3037874, Author: Customer, Note: Reservation: 2:30 PM / Mihai Scutariu / 2 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 2:30 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: &#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	111-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-20 06:27:02.3166410, Author: Customer, Note: Reservation: 10:00 AM / Mihai Scutariu / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 07/23/2021&#x0D;
+	Time: 10:00 AM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 145629&#x0D;
+	Order #: 2954&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	111-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-20 05:34:46.4591138, Author: Customer, Note: Reservation: 8:00 AM / Mihai Scutariu / 1 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 07/22/2021&#x0D;
+	Time: 8:00 AM&#x0D;
+	Guests: 1&#x0D;
+	Reservation #: 145623&#x0D;
+	Order #: 2953&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	211-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-20 05:00:30.6436450, Author: Customer, Note: Reservation: 11:30 AM / Mihai Scutariu / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 07/23/2021&#x0D;
+	Time: 11:30 AM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 145619&#x0D;
+	Order #: 2952&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	111-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-20 04:51:33.9977694, Author: Customer, Note: Reservation: 11:15 AM / Mihai Scutariu / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 11:15 AM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 145617&#x0D;
+	Order #: 2951&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	111-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-20 03:27:21.5679838, Author: Customer, Note: Reservation: 12:00 PM / Mihai Scutariu / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 12:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 145609&#x0D;
+	Order #: 2949&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	111-111-1111&#x0D;
+	mihai.sc@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)",4/1/2021 2:13:53 AM,,3/11/1989 12:00:00 AM,3/11/1989 12:00:00 AM,,,,,,,,0,696,
+9501,Laura,A,laura@op.po,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,4/1/2021 12:18:10 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9506,Billy,Bob,billybob@op.net,,67890 California 111,,Cathedral City,CA,92234,UNITED STATES,456-777-7888,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Subscription Club,No,No,,4/4/2021 5:43:10 PM,,5/1/1960 12:00:00 AM,,,,,,,,,0,,45
+9509,Randi,Morrow,Randimorrow@op.net,,43430 Monroe Street,,Indio,CA,92201,UNITED STATES,234-555-5666,,Randi,Morrow,Randimorrow@op.net,,43430 Monroe Street,,Indio,CA,92201,UNITED STATES,234-555-5666,,,Consumer,No,No,,4/5/2021 9:52:19 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,109,
+9514,Bill,Vine,billvine@op.net,,,,,,98407,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,4/5/2021 11:49:29 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9518,Rick,Terrace,rickterrace@op.net,,56785 Mountain View,,La Quinta,CA,92253,UNITED STATES,456-777-7888,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Consumer,No,No,,4/5/2021 3:07:07 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,83.3,
+9523,Rick,Burger,rickburger@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,4/11/2021 11:22:58 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9526,Terry,Todd,terrytodd@op.net,,1287 120th Avenue Northeast,,Bellevue,WA,98005,UNITED STATES,234-543-2121,,Terry,Todd,terrytodd@op.net,,1287 120th Avenue Northeast,,Bellevue,WA,98005,UNITED STATES,234-543-2121,,,Consumer,No,No,,4/12/2021 8:21:58 AM,,1/1/1966 12:00:00 AM,1/1/1966 12:00:00 AM,,,,,,,,0,95.2,
+9532,Calvin,Klein,calvin@op.po,,234 Kleinpell Avenue,,Bakersfield,CA,93309,UNITED STATES,123-654-7890,,Calvin,Klein,calvin@op.po,,234 Kleinpell Avenue,,Bakersfield,CA,93309,UNITED STATES,123-654-7890,,,Gold Club,Yes,No,,4/12/2021 1:24:07 PM,,4/17/1980 12:00:00 AM,4/17/1980 12:00:00 AM,,,,,,,,11860,2501,
+9534,Lady,Gaga,monster@gaga.com,,333 Lakeside Drive,,Foster City,CA,94404,UNITED STATES,233-577-7999,,Lady,Gaga,monster@gaga.com,,333 Lakeside Drive,,Foster City,CA,94404,UNITED STATES,233-577-7999,,,Gold Club,Yes,No,,4/12/2021 1:41:32 PM,,7/16/1983 12:00:00 AM,7/16/1983 12:00:00 AM,,,,,,,,13228,2645.52,
+9536,Brent,Burns,brentburns@op.net,,3717 n 34th st,,Tacoma,WA,98407,UNITED STATES,456-777-7888,,Brent,Burns,brentburns@op.net,,3717 n 34th st,,Tacoma,WA,98407,UNITED STATES,456-777-7888,,,Consumer,No,No,,4/12/2021 1:49:40 PM,,10/1/1960 12:00:00 AM,10/1/1960 12:00:00 AM,,,,,,,,0,,
+9540,Jack,Black,jack@black.com,,333 Tropical Avenue,,Pasadena,CA,91107,UNITED STATES,234-765-8901,,Jack,Black,jack@black.com,,333 Tropical Avenue,,Pasadena,CA,91107,UNITED STATES,234-765-8901,,,Gold Club,Yes,No,,4/13/2021 9:52:12 AM,,5/26/1960 12:00:00 AM,5/26/1960 12:00:00 AM,,,,,,,,11860,2732.9,
+9544,Ginger,Rogers,gingerrogers@op.net,,5679 Southeast International Way,,Milwaukie,OR,97222,UNITED STATES,456-777-8888,,Ginger,Rogers,gingerrogers@op.net,,5679 Southeast International Way,,Milwaukie,OR,97222,UNITED STATES,456-777-8888,,,Silver Club,Yes,No,,4/13/2021 11:51:37 AM,,1/1/1947 12:00:00 AM,1/1/1947 12:00:00 AM,,,,,,,,4796,1511.1,
+9546,Jay,Jacobs,Jjacobs@op.net,,4563 162nd Ln SE,,Bellevue,WA,98006,UNITED STATES,234-543-2121,,Jay,Jacobs,jjacobs@op.net,,4598 Klahanie Drive Southeast,,Issaquah,WA,98029,UNITED STATES,206-399-6100,,,Consumer,No,No,,4/13/2021 11:59:00 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,33,
+9559,Rick,Belisle,rick@ordderport.com,,3717 North 34th Street,,Tacoma,WA,98407,UNITED STATES,206-399-6100,,Rick,Belisle,rick@ordderport.com,,3717 North 34th Street,,Tacoma,WA,98407,UNITED STATES,206-399-6100,,,Consumer,No,No,,4/14/2021 4:10:46 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,118,
+9560,Yeti,Yellow,yetiyellow@op.net,,5674 South Thompson Avenue,,Tacoma,WA,98408,UNITED STATES,206-456-7621,,Yeti,Yellow,yetiyellow@op.net,,5674 South Thompson Avenue,,Tacoma,WA,98408,UNITED STATES,206-456-7621,,,Consumer,No,No,,4/14/2021 5:23:25 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,,
+9564,Abe,Lincoln,abe@orderport.net,,,,,,,UNITED STATES,206-464-1151,,,,,,,,,,,UNITED STATES,,,,Silver Club,Yes,No,"(Date: 2021-04-19 13:24:57.6661974, Author: natpayne123, Note: Loves red wine)",4/19/2021 12:58:35 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9567,Betty,Bellevue,bbellevue@op.net,,4573 Southeast Firmont Drive,,Port Orchard,WA,98367,UNITED STATES,456-321-4444,,Betty,Bellevue,bbellevue@op.net,,4573 Southeast Firmont Drive,,Port Orchard,WA,98367,UNITED STATES,456-321-4444,,,Silver Club,Yes,No,,4/21/2021 9:11:35 AM,,1/1/1951 12:00:00 AM,1/1/1951 12:00:00 AM,,,,,,,,4796,1486.45,
+9578,Sean,Corder,sean.corder@gmail.com,,,,,,,UNITED STATES,8707618549,,Sean,Corder,sean.corder@gmail.com,,,,,,,UNITED STATES,8707618549,,,Consumer,No,No,,4/23/2021 7:41:59 AM,,,,,,,,,,,0,,
+9582,Dolly,Parton,dolly@op.com,,2456 Creston Road,,Paso Robles,CA,93446,UNITED STATES,234-567-8901,,Dolly,Parton,dolly@op.com,,2456 Creston Road,,Paso Robles,CA,93446,UNITED STATES,234-567-8901,,,Gold Club,Yes,No,,4/26/2021 10:17:29 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,11860,2372,
+9592,Tim,Alabama,timalabama@orderport.net,,414 Hambaugh Ave,,Birmingham,AL,35209,UNITED STATES,222-222-2222,,Tim,Alabama,timalabama@orderport.net,,414 Hambaugh Ave,,Birmingham,AL,35209,UNITED STATES,222-222-2222,,,Gold Club,No,No,,5/4/2021 3:35:42 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,304,98.8,
+9593,Rick,Tuesday,Ricktuesday@op.net,,,,,,,UNITED STATES,456-333-2222,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Consumer,No,No,,5/6/2021 2:20:53 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,0,
+9594,Yuri,Smith,yurismith@op.net,,3498 SW Firdrona Ln N,,Port Orchard,WA,98367,UNITED STATES,345-223-4678,,Yuri,Smith,yurismith@op.net,,3498 SW Firdrona Ln N,,Port Orchard,WA,98367,UNITED STATES,345-223-4678,,,Consumer,No,No,,5/6/2021 2:35:48 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,95.2,
+9605,Laura,Arvizu,laura.arvizu1@gmail.com,,1246 2nd St SW,,Cullman,AL,35055,UNITED STATES,180-579-8798,,Laura,Arvizu,laura.arvizu1@gmail.com,,1246 2nd St SW,,Cullman,AL,35055,UNITED STATES,180-579-8798,,,Consumer,Yes,No,"(Date: 2021-08-25 14:15:02.3766620, Author: Aztlan, Note: Reservation: Reservation Scheduled&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 08/25/2021&#x0D;
+	Time: 3:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 160163&#x0D;
+	Order #: 3314&#x0D;
+	Prepaid: $22.02&#x0D;
+Contact Person&#x0D;
+	Laura Arvizu&#x0D;
+	180-579-8798&#x0D;
+	laura.arvizu1@gmail.com&#x0D;
+Notes: &#x0D;
+	n/a)",5/10/2021 10:39:20 AM,,1/7/1995 12:00:00 AM,1/7/1995 12:00:00 AM,,,,,,,,0,20,
+9606,Lo,RVZOO,lo@order.po,,1246 2nd St SW,,Cullman,AL,35055,UNITED STATES,180-579-8798,,Lo,RVZOO,lo@order.po,,1246 2nd St SW,,Cullman,AL,35055,UNITED STATES,180-579-8798,,,Consumer,Yes,No,,5/11/2021 10:17:33 AM,,6/5/1987 12:00:00 AM,6/5/1987 12:00:00 AM,,,,,,,,0,,
+9627,Grant,Gold,grantgold@op.net,,56743 Dancing Rock Loop,,Bend,OR,97707,UNITED STATES,206-567-8976,,Grant,Gold,grantgold@op.net,,56743 Dancing Rock Loop,,Bend,OR,97707,UNITED STATES,206-567-8976,,,Silver Club,Yes,No,,5/12/2021 8:07:53 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,4796,1199.35,
+9636,Greg,Sparks,gregsparks@op.net,,4567 35th Ave S,,Seattle,WA,98118,UNITED STATES,345-333-2222,,Greg,Sparks,gregsparks@op.net,,4567 35th Ave S,,Seattle,WA,98118,UNITED STATES,345-333-2222,,,Consumer,No,No,,5/12/2021 10:40:09 AM,,1/1/1963 12:00:00 AM,1/1/1963 12:00:00 AM,,,,,,,,0,10,
+9640,Todd,Dogg,Todddogg@op.net,,,,,,,UNITED STATES,234-564-4444,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,5/14/2021 9:13:47 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9642,Nora,Jones,nora@jones.com,,1234 3rd St N,,Birmingham,AL,35204,UNITED STATES,132-345-6789,,Nora,Jones,nora@jones.com,,1234 3rd St N,,Birmingham,AL,35204,UNITED STATES,132-345-6789,,,Consumer,Yes,No,,5/17/2021 9:21:22 AM,,5/3/1988 12:00:00 AM,5/3/1988 12:00:00 AM,,,,,,,,0,,
+9650,Tim,Happy,tim@happy.com,,5674 South Thompson Avenue,,Tacoma,WA,98408,UNITED STATES,444-444-4444,,,,,,,,,,,UNITED STATES,,,,Subscription Club,No,No,,5/20/2021 12:34:00 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,45
+9651,Brett,Belle,brettbelle@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,5/20/2021 2:31:14 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9652,Terry,Tomb,terrytomb@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,5/20/2021 2:33:37 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9658,Test,Testimonial,testingtesting123@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,5/25/2021 12:45:46 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9660,Betty,Blue,bettyblue@op.net,,5645 South Washington Street,,Tacoma,WA,98409,UNITED STATES,456-234-8888,,Betty,Blue,bettyblue@op.net,,5645 South Washington Street,,Tacoma,WA,98409,UNITED STATES,456-234-8888,,,Subscription Club,No,No,,5/26/2021 9:12:26 AM,,1/1/1971 12:00:00 AM,1/1/1971 12:00:00 AM,,,,,,,,0,,45
+9661,Ray,Leroy,rayleroy@op.net,,6798 48th Avenue Southwest,,Seattle,WA,98136,UNITED STATES,459-876-6655,,Ray,Leroy,rayleroy@op.net,,6798 48th Avenue Southwest,,Seattle,WA,98136,UNITED STATES,459-876-6655,,,Consumer,No,No,,5/26/2021 9:15:43 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,,0
+9663,Brenda,Black,brendablack@op.net,,4532 44th St NE,,Tacoma,WA,98422,UNITED STATES,456-432-1876,,Brenda,Black,brendablack@op.net,,4532 44th St NE,,Tacoma,WA,98422,UNITED STATES,456-432-1876,,,Subscription Club,No,No,,5/26/2021 11:08:33 AM,,1/1/1966 12:00:00 AM,1/1/1966 12:00:00 AM,,,,,,,,0,,180
+9680,Rick,Bird,rickbird@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,6/3/2021 10:31:46 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9684,Robin,Bills,Robinbills@op.net,,,,,,,UNITED STATES,,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Case Club,Yes,No,,6/8/2021 11:51:22 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,615.6,
+9685,Barney,Bills,Barneybills@op.net,,,,,,,UNITED STATES,,,,,,,,,Bellevue,WA,98006,UNITED STATES,,,,Case Club,Yes,No,,6/8/2021 1:26:23 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,172.8,
+9702,Paul,Walker,paul@walker.com,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,6/23/2021 10:10:14 AM,,,,,,,,,,,0,,
+9704,Bob,Jones,bob@jones.po,,,,,,,UNITED STATES,123-456-6890,,,,,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,6/23/2021 10:14:42 AM,,1/1/1960 12:00:00 AM,,,,,,,,,0,194,
+9716,Richard,Belisle,rick@orderport.edu,,3717 South Ainsworth Avenue,,Tacoma,WA,98418,UNITED STATES,206-399-6100,,Richard,Belisle,rick@orderport.edu,,3717 South Ainsworth Avenue,,Tacoma,WA,98418,UNITED STATES,206-399-6100,,,Subscription Club,Yes,No,,7/2/2021 8:50:50 AM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,37,45
+9723,Luna,Lovegood,luna@love.co,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/9/2021 12:06:53 PM,,,,,,,,,,,0,,
+9725,Ron,Weasley,ron@weasley.op,,,,,,,UNITED STATES,123-456-4321,,,,,,,,,,,UNITED STATES,,,,Gold Club,Yes,No,,7/12/2021 11:14:58 AM,,8/20/1980 12:00:00 AM,,,,,,,,,0,,
+9742,Tina,Turner,tina@turner.com,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/16/2021 1:48:46 PM,,,,,,,,,,,0,,
+9743,Joe,Black,joe@black.co,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/16/2021 1:48:58 PM,,,,,,,,,,,0,,
+9750,Kkk,Kkk,test@gmail.com,,5202 greenwood ave n,,SEattle,WA,98101,UNITED STATES,999-999-9999,,Kkk,Kkk,test@gmail.com,,5202 greenwood ave n,,SEattle,WA,98101,UNITED STATES,999-999-9999,,,Silver Club,Yes,No,,7/16/2021 7:29:16 PM,,11/15/1986 12:00:00 AM,11/15/1986 12:00:00 AM,,,,,,,Other;,1631,408,
+9752,Maggie,York,maggie.y@oderport.net,,,,,,,UNITED STATES,666-666-6666,,Maggie,York,maggie.y@oderport.net,,,,,,,UNITED STATES,666-666-6666,,,Consumer,Yes,No,"(Date: 2021-07-20 08:49:23.6012264, Author: Customer, Note: Reservation: 11:15 AM / maggie york / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 11:15 AM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 145651&#x0D;
+	Order #: 2955&#x0D;
+Contact Person&#x0D;
+	maggie york&#x0D;
+	666-666-6666&#x0D;
+	maggie.y@oderport.net&#x0D;
+Notes: &#x0D;
+	n/a)",7/20/2021 8:49:22 AM,,,,,,,,,,,0,0,
+9753,Carlos,Reiner,carlos@orderport.net,,123 Main Street,,Seattle,WA,98070,UNITED STATES,125-331-4896,,Carlos,Reiner,carlos@orderport.net,,123 Main Street,,Seattle,WA,98070,UNITED STATES,125-331-4896,,,Consumer,No,No,"(Date: 2021-08-04 15:10:39.9460554, Author: Customer, Note: Reservation: 1:00 PM / Carlos Reiner / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 08/21/2021&#x0D;
+	Time: 1:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 151879&#x0D;
+	Order #: 3079&#x0D;
+	Prepaid: $22.02&#x0D;
+Contact Person&#x0D;
+	Carlos Reiner&#x0D;
+	125-555-4896&#x0D;
+	carlos@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-20 11:35:11.4967398, Author: Customer, Note: Reservation: 1:00 PM / Carlos Reiner / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 1:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 145725&#x0D;
+	Order #: 2956&#x0D;
+Contact Person&#x0D;
+	Carlos Reiner&#x0D;
+	125-331-4896&#x0D;
+	cpjr90@gmail.com&#x0D;
+Notes: &#x0D;
+	n/a)",7/20/2021 11:35:10 AM,,1/6/1989 12:00:00 AM,1/6/1989 12:00:00 AM,,,,,,,,0,30,
+9754,Joe,Shmo,joe@shmo.com,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/21/2021 9:25:09 AM,,,,,,,,,,,0,,
+9756,Tod,Yetty,rick@orderport.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/21/2021 10:07:23 AM,,,,,,,,,,,0,,
+9757,Mihai,Scutariu,mihai.scutariu@gmail.com,,,,,,,UNITED STATES,074-002-6440,,Mihai,Scutariu,mihai.scutariu@gmail.com,,,,,,,UNITED STATES,074-002-6440,,,Consumer,Yes,No,"(Date: 2021-07-21 10:08:42.2707065, Author: Customer, Note: Reservation: 1:00 PM / Mihai Scutariu / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 1:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 146043&#x0D;
+	Order #: 2960&#x0D;
+	Prepaid: $44.04&#x0D;
+Contact Person&#x0D;
+	Mihai Scutariu&#x0D;
+	074-002-6440&#x0D;
+	mihai.scutariu@gmail.com&#x0D;
+Notes: &#x0D;
+	test)",7/21/2021 10:08:35 AM,,,,,,,,,,,0,219,
+9763,Lauren,Rava,lo@rava.com,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/21/2021 10:58:11 AM,,,,,,,,,,,0,,
+9765,Guest,Customer,guest@c.com,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/21/2021 12:56:09 PM,,,,,,,,,,,0,,
+9768,Laura,Stone,laura@stone.com,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/22/2021 8:10:43 AM,,,,,,,,,,,0,,
+9771,Carlos,Reiner,cpjr90@gmail.com,,10213 SW Cove Rd,,VASHON,WA,98070,UNITED STATES,125-331-4896,,Carlos,Reiner,cpjr90@gmail.com,,10213 SW Cove Rd,,VASHON,WA,98070,UNITED STATES,125-331-4896,,,Gold Club,Yes,No,"(Date: 2021-08-25 14:09:46.3787095, Author: Aztlan, Note: Reservation: Reservation Scheduled&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 08/25/2021&#x0D;
+	Time: 3:15 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 160159&#x0D;
+	Order #: 3313&#x0D;
+Contact Person&#x0D;
+	Carlos Reiner&#x0D;
+	125-331-4896&#x0D;
+	cpjr90@gmail.com&#x0D;
+Notes: &#x0D;
+	n/a)",7/22/2021 10:39:43 AM,,12/12/1991 12:00:00 AM,12/12/1991 12:00:00 AM,,,,,,,,100,20,
+9772,Tim,Huff,timh@orderport.net,,8240 126th Ave NE,,Kirkland,WA,98033,UNITED STATES,555-555-5555,,Tim,Huff,timh@orderport.net,,8240 126th Ave NE,,Kirkland,WA,98033,UNITED STATES,555-555-5555,,,Consumer,Yes,No,"(Date: 2021-08-26 09:13:05.5852674, Author: Customer, Note: Reservation: 3:00 PM / Tim Huff / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 08/28/2021&#x0D;
+	Time: 3:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 160398&#x0D;
+	Order #: 3375&#x0D;
+	Prepaid: $22.02&#x0D;
+Contact Person&#x0D;
+	Tim Huff&#x0D;
+	555-555-5555&#x0D;
+	timh@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-29 09:49:58.6886527, Author: Customer, Note: Reservation: 6:00 PM / Tim Huff / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/30/2021&#x0D;
+	Time: 6:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 149409&#x0D;
+	Order #: 3061&#x0D;
+	Prepaid: $66.06&#x0D;
+Contact Person&#x0D;
+	Tim Huff&#x0D;
+	555-555-5555&#x0D;
+	timh@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-29 09:20:51.0685510, Author: Customer, Note: Reservation: 4:30 PM / Tim Huff / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 4:30 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 149385&#x0D;
+	Order #: 3060&#x0D;
+	Prepaid: $66.06&#x0D;
+Contact Person&#x0D;
+	Tim Huff&#x0D;
+	555-555-5555&#x0D;
+	timh@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-22 13:56:52.4358612, Author: Customer, Note: Reservation: 3:00 PM / Tim Huff / 3 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 3:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: &#x0D;
+Contact Person&#x0D;
+	Tim Huff&#x0D;
+	555-555-5555&#x0D;
+	timh@orderport.net&#x0D;
+Notes: &#x0D;
+	testing reservation update)",7/22/2021 1:56:52 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,140,
+9774,Taryn,Pearl,taryn@pearl.net,,358 Quail Summit,,Paso Robles,CA,93446,UNITED STATES,123-567-8903,,Taryn,Pearl,taryn@pearl.net,,358 Quail Summit,,Paso Robles,CA,93446,UNITED STATES,123-567-8903,,,Silver Club,No,No,,7/22/2021 4:37:10 PM,"nick@pearl.net,",1/20/1980 12:00:00 AM,1/20/1980 12:00:00 AM,,,,,,,,0,,90
+9777,Deb,Marc,deb@marc.com,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,7/23/2021 12:07:54 PM,,,,,,,,,,,0,,
+9779,Mike,Mall,mikemall@op.net,,3717 North Ravenswood Avenue,,Chicago,IL,60613,UNITED STATES,345-678-9777,,Mike,Mall,mikemall@op.net,,3717 North Ravenswood Avenue,,Chicago,IL,60613,UNITED STATES,345-678-9777,,,Silver Club,Yes,No,,7/23/2021 3:25:56 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,376,93.95,
+9780,Rick,Balile,Rbalile@op.net,,,,,,,UNITED STATES,206-399-6100,,Rick,Balile,Rbalile@op.net,,,,,,,UNITED STATES,206-399-6100,,,Consumer,No,No,"(Date: 2021-07-23 17:07:26.7002200, Author: Customer, Note: Reservation: 11:00 AM / Rick Balile / 2 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 07/28/2021&#x0D;
+	Time: 11:00 AM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 147370&#x0D;
+Contact Person&#x0D;
+	Rick Balile&#x0D;
+	206-399-6100&#x0D;
+	Rbalile@op.net&#x0D;
+Notes: &#x0D;
+	Need wheelchair access)",7/23/2021 5:07:26 PM,,,,,,,,,,,0,,
+9781,Randy,Bellisle,Randybellisle@op.net,,,,,,,UNITED STATES,206-399-6100,,Randy,Bellisle,Randybellisle@op.net,,,,,,,UNITED STATES,206-399-6100,,,Consumer,Yes,No,"(Date: 2021-07-23 17:09:55.4314876, Author: Customer, Note: Reservation: 3:00 PM / Randy Bellisle / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/24/2021&#x0D;
+	Time: 3:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 147371&#x0D;
+	Order #: 3023&#x0D;
+Contact Person&#x0D;
+	Randy Bellisle&#x0D;
+	206-399-6100&#x0D;
+	Randybellisle@op.net&#x0D;
+Notes: &#x0D;
+	n/a)",7/23/2021 5:09:54 PM,,,,,,,,,,,0,0,
+9783,Timmy,Huff,timh888@orderport.net,,,,,,,UNITED STATES,456-456-8435,,Timmy,Huff,timh888@orderport.net,,,,,,,UNITED STATES,456-456-8435,,,Consumer,Yes,No,"(Date: 2021-07-27 15:15:52.0024687, Author: Customer, Note: Reservation: 4:30 PM / Timmy Huff / 6 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 4:30 PM&#x0D;
+	Guests: 6&#x0D;
+	Reservation #: 148828&#x0D;
+	Order #: 3059&#x0D;
+	Prepaid: $132.12&#x0D;
+Contact Person&#x0D;
+	Timmy Huff&#x0D;
+	456-456-8435&#x0D;
+	timh888@orderport.net&#x0D;
+Notes: &#x0D;
+	test message)",7/27/2021 3:15:48 PM,,,,,,,,,,,0,120,
+9784,Tommy,Lewis,tommy234234@orderport.net,,,,,,,UNITED STATES,512-555-5555,,Tommy,Lewis,tommy234234@orderport.net,,,,,,,UNITED STATES,512-555-5555,,,Consumer,No,No,"(Date: 2021-07-29 09:52:01.1483567, Author: Customer, Note: Reservation: 4:00 PM / Tommy Lewis / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 4:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 149410&#x0D;
+	Order #: 3062&#x0D;
+	Prepaid: $66.06&#x0D;
+Contact Person&#x0D;
+	Tommy Lewis&#x0D;
+	512-555-5555&#x0D;
+	tommy234234@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)",7/29/2021 9:51:53 AM,,,,,,,,,,,0,60,
+9785,Tommy,Harris,tommy2342342@orderport.net,,,,,,,UNITED STATES,156-456-5645,,Tommy,Harris,tommy2342342@orderport.net,,,,,,,UNITED STATES,156-456-5645,,,Consumer,No,No,"(Date: 2021-07-29 10:16:02.5148868, Author: Customer, Note: Reservation: 4:00 PM / Tommy Harris / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 4:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 149427&#x0D;
+	Order #: 3063&#x0D;
+	Prepaid: $66.06&#x0D;
+Contact Person&#x0D;
+	Tommy Harris&#x0D;
+	156-456-5645&#x0D;
+	tommy2342342@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)",7/29/2021 10:15:54 AM,,,,,,,,,,,0,60,
+9786,Bonnie,Kakos,bonnie@pianettawinery.com,,,,,,,UNITED STATES,805-226-4005,,Bonnie,Kakos,bonnie@pianettawinery.com,,,,,,,UNITED STATES,805-226-4005,,,Consumer,No,No,"(Date: 2021-07-29 12:39:11.1260160, Author: Customer, Note: Reservation: 3:00 PM / Bonnie Kakos / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 08/14/2021&#x0D;
+	Time: 3:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 149504&#x0D;
+	Order #: 3064&#x0D;
+Contact Person&#x0D;
+	Bonnie Kakos&#x0D;
+	805-226-4005&#x0D;
+	bonnie@pianettawinery.com&#x0D;
+Notes: &#x0D;
+	Can not wait)",7/29/2021 12:39:10 PM,,,,,,,,,,,0,0,
+9787,John,Doe,email@email.com,,2425 277th PL. NE.,,Bellevue,WA,98018,UNITED STATES,425-345-6789,,John,Doe,email@email.com,,2425 277th PL. NE.,,Bellevue,WA,98018,UNITED STATES,425-345-6789,,,Consumer,No,No,"(Date: 2021-08-05 12:08:29.0651549, Author: Customer, Note: Reservation: 10:00 AM / john doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 08/07/2021&#x0D;
+	Time: 10:00 AM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 152213&#x0D;
+Contact Person&#x0D;
+	john doe&#x0D;
+	111-111-1111&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-30 16:10:58.4740183, Author: Customer, Note: Reservation: 5:00 PM / John Doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 5:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 150138&#x0D;
+	Order #: 3072&#x0D;
+Contact Person&#x0D;
+	John Doe&#x0D;
+	425-345-6789&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	Thanks!)    (Date: 2021-07-30 16:04:47.3582958, Author: Customer, Note: Reservation: 2:00 PM / John Doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 2:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 150134&#x0D;
+	Order #: 3071&#x0D;
+Contact Person&#x0D;
+	John Doe&#x0D;
+	425-345-6789&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-30 15:58:57.0431368, Author: Customer, Note: Reservation: 4:00 PM / John Doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 4:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 150127&#x0D;
+	Order #: 3070&#x0D;
+Contact Person&#x0D;
+	John Doe&#x0D;
+	425-345-6789&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	Thanks!)    (Date: 2021-07-30 15:56:20.0582375, Author: Customer, Note: Reservation: 5:00 PM / John Doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 5:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 150124&#x0D;
+	Order #: 3069&#x0D;
+Contact Person&#x0D;
+	John Doe&#x0D;
+	425-345-6789&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-30 15:51:46.2343535, Author: Customer, Note: Reservation: 5:00 PM / John Doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 5:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 150117&#x0D;
+	Order #: 3068&#x0D;
+Contact Person&#x0D;
+	John Doe&#x0D;
+	425-345-6789&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-30 15:49:29.3688317, Author: Customer, Note: Reservation: 2:00 PM / John Doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 2:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 150114&#x0D;
+	Order #: 3067&#x0D;
+Contact Person&#x0D;
+	John Doe&#x0D;
+	425-345-6789&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-30 15:44:56.4185934, Author: Customer, Note: Reservation: 2:00 PM / John Doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 2:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 150111&#x0D;
+	Order #: 3066&#x0D;
+Contact Person&#x0D;
+	John Doe&#x0D;
+	425-345-6789&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-07-30 15:30:09.3459351, Author: Customer, Note: Reservation: 5:00 PM / John Doe / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 07/31/2021&#x0D;
+	Time: 5:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 150097&#x0D;
+	Order #: 3065&#x0D;
+Contact Person&#x0D;
+	John Doe&#x0D;
+	425-345-6789&#x0D;
+	email@email.com&#x0D;
+Notes: &#x0D;
+	n/a)",7/30/2021 3:20:24 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,0,
+9790,Rosie,Oppenheimer,rosieo@gmail.com,,123 Main Street,,Seattle,WA,98112,UNITED STATES,206-553-8990,,Rosie,Oppenheimer,rosieo@gmail.com,,123 Main Street,,Seattle,WA,98112,UNITED STATES,206-553-8990,,,Consumer,Yes,No,,8/3/2021 3:25:34 PM,,8/6/1987 12:00:00 AM,8/6/1987 12:00:00 AM,,,,,,,,0,,
+9792,Harry,Huff,harry242222@orderport.net,,,,,,,UNITED STATES,512-555-5555,,Harry,Huff,harry242222@orderport.net,,,,,,,UNITED STATES,512-555-5555,,,Consumer,No,No,"(Date: 2021-08-05 09:23:12.6571949, Author: Customer, Note: Reservation: 4:30 PM / Harry Huff / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 08/28/2021&#x0D;
+	Time: 4:30 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 152108&#x0D;
+	Order #: 3080&#x0D;
+Contact Person&#x0D;
+	Harry Huff&#x0D;
+	512-555-5555&#x0D;
+	harry242222@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)",8/5/2021 9:23:11 AM,,,,,,,,,,,0,0,
+9793,John,Williams,23649236492@orderport.net,,,,,,,UNITED STATES,454-545-5454,,John,Williams,23649236492@orderport.net,,,,,,,UNITED STATES,454-545-5454,,,Consumer,No,No,"(Date: 2021-08-05 10:06:24.9965100, Author: Customer, Note: Reservation: 4:30 PM / John Williams / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 08/07/2021&#x0D;
+	Time: 4:30 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 152127&#x0D;
+	Order #: 3081&#x0D;
+	Prepaid: $66.06&#x0D;
+Contact Person&#x0D;
+	John Williams&#x0D;
+	454-545-5454&#x0D;
+	23649236492@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)",8/5/2021 10:06:14 AM,,,,,,,,,,,0,60,
+9796,Mark,Ratzlaff,hegewald@orderport.net,,,,,,,UNITED STATES,333-333-3333,,Mark,Ratzlaff,hegewald@orderport.net,,,,,,,UNITED STATES,333-333-3333,,,Consumer,No,No,"(Date: 2021-09-01 14:43:53.8831205, Author: Customer, Note: Reservation: 6:00 PM / mark hegewald / 4 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 09/11/2021&#x0D;
+	Time: 6:00 PM&#x0D;
+	Guests: 4&#x0D;
+	Reservation #: 162752&#x0D;
+	Order #: 3444&#x0D;
+	Prepaid: $60.00&#x0D;
+Contact Person&#x0D;
+	mark hegewald&#x0D;
+	206-224-2345&#x0D;
+	hegewald@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-08-05 16:53:53.4027017, Author: Customer, Note: Reservation: 4:30 PM / Mark Ratzlaff / 1 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 08/06/2021&#x0D;
+	Time: 4:30 PM&#x0D;
+	Guests: 1&#x0D;
+	Reservation #: 152634&#x0D;
+Contact Person&#x0D;
+	Mark Ratzlaff&#x0D;
+	333-333-3333&#x0D;
+	hegewald@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)",8/5/2021 4:53:53 PM,,,,,,,,,,,0,60,
+9798,Test,Test2,asfhjash@live.com,,test3,,test4,WA,98006,UNITED STATES,358-437-5135,,Randy,Riley,Rrandy@orderport.net,,test1,,test2,WA,98006,UNITED STATES,206-575-7890,,,Consumer,No,No,,8/6/2021 7:41:08 AM,,1/2/1917 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,71,
+9801,Rick,Belisle,rick@op.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,,8/6/2021 8:42:48 AM,,,,,,,,,,,0,,
+9802,Michelle,Fanton,Mishnmash1@gmail.com,,,,,,,UNITED STATES,607-280-8630,,Michelle,Fanton,Mishnmash1@gmail.com,,,,,,,UNITED STATES,607-280-8630,,,Consumer,No,No,"(Date: 2021-08-06 13:10:14.1804689, Author: Customer, Note: Reservation: 9:30 AM / Michelle Fanton / 2 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 08/19/2021&#x0D;
+	Time: 9:30 AM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 152943&#x0D;
+Contact Person&#x0D;
+	Michelle Fanton&#x0D;
+	607-280-8630&#x0D;
+	Mishnmash1@gmail.com&#x0D;
+Notes: &#x0D;
+	n/a)",8/6/2021 1:10:13 PM,,,,,,,,,,,0,,
+9803,Lisa,Smith,lisasmith212@gmail.com,,,,,,,UNITED STATES,205-555-3488,,Lisa,Smith,lisasmith212@gmail.com,,,,,,,UNITED STATES,205-555-3488,,,Consumer,No,No,"(Date: 2021-08-09 11:46:32.4130916, Author: Customer, Note: Reservation: 6:00 PM / Lisa Smith / 2 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 08/28/2021&#x0D;
+	Time: 6:00 PM&#x0D;
+	Guests: 2&#x0D;
+	Reservation #: 154151&#x0D;
+	Order #: 3162&#x0D;
+	Prepaid: $44.04&#x0D;
+Contact Person&#x0D;
+	Lisa Smith&#x0D;
+	205-555-3488&#x0D;
+	lisasmith212@gmail.com&#x0D;
+Notes: &#x0D;
+	n/a)",8/9/2021 11:46:30 AM,,,,,,,,,,,0,40,
+9809,Freddy,Firestone,freddy@op.net,,4532 South Henderson Street,,Seattle,WA,98118,UNITED STATES,206-444-3333,,Freddy,Firestone,freddy@op.net,,4532 South Henderson Street,,Seattle,WA,98118,UNITED STATES,206-444-3333,,,Silver Club,No,No,,8/10/2021 2:00:30 PM,,1/1/1960 12:00:00 AM,1/1/1960 12:00:00 AM,,,,,,,,0,,
+9813,Ben,Morris,ben@emercywine.com,,1907 Fieldstone Cir,,paso robles,CA,93446,UNITED STATES,123-456-7654,,,,,,,,,,,UNITED STATES,,,,Employee,Yes,No,,8/13/2021 6:02:32 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,110,
+9817,Amber,Bee,amber@bee.com,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Consumer,Yes,No,"(Date: 2021-08-16 09:22:50.9421508, Author: LauraOP, Note: Brothers wife. Always comp tastings and give 20%)",8/16/2021 8:35:30 AM,,,,,,,,,,,0,,
+9819,Tommy,MALCIK,tommy@bigdogvineyards.com,,,,,,,UNITED STATES,408-893-2652,,Tommy,MALCIK,tommy@bigdogvineyards.com,,,,,,,UNITED STATES,408-893-2652,,,Consumer,No,No,"(Date: 2021-08-16 17:06:59.4604313, Author: Customer, Note: Reservation: 1:00 PM / tommy MALCIK / 3 people&#x0D;
+Details&#x0D;
+	Location: Bistro&#x0D;
+	Date: 08/21/2021&#x0D;
+	Time: 1:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 156987&#x0D;
+Contact Person&#x0D;
+	tommy MALCIK&#x0D;
+	408-893-2652&#x0D;
+	tommy@bigdogvineyards.com&#x0D;
+Notes: &#x0D;
+	n/a)",8/16/2021 5:06:59 PM,,,,,,,,,,,0,,
+9827,Pete,Paul,pete@paul.com,,,,,,,UNITED STATES,2345678901,,,,,,,,,,,UNITED STATES,,,,Consumer,No,No,,8/25/2021 12:10:37 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,,
+9832,Hank,Huff,hank@orderport.net,,,,,,,UNITED STATES,526-369-7895,,Hank,Huff,hank@orderport.net,,,,,,,UNITED STATES,526-369-7895,,,Consumer,No,No,"(Date: 2021-08-26 10:18:51.8071968, Author: Customer, Note: Reservation: 1:00 PM / Hank Huff / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 08/28/2021&#x0D;
+	Time: 1:00 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 160435&#x0D;
+	Order #: 3380&#x0D;
+	Prepaid: $20.00&#x0D;
+Contact Person&#x0D;
+	Hank Huff&#x0D;
+	512-555-5555&#x0D;
+	hank@orderport.net&#x0D;
+Notes: &#x0D;
+	n/a)    (Date: 2021-08-26 09:18:39.5390286, Author: Customer, Note: Reservation: 2:30 PM / Hank Huff / 3 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Seattle Tasting Room&#x0D;
+	Date: 08/28/2021&#x0D;
+	Time: 2:30 PM&#x0D;
+	Guests: 3&#x0D;
+	Reservation #: 160401&#x0D;
+	Order #: 3376&#x0D;
+	Prepaid: $22.02&#x0D;
+Contact Person&#x0D;
+	Hank Huff&#x0D;
+	526-369-7895&#x0D;
+	hank@orderport.net&#x0D;
+Notes: &#x0D;
+	test)",8/26/2021 9:18:29 AM,,,,,,,,,,,0,40,
+9843,Rudy,Paul,rudy@op.net,,1907 Fieldstone Cir,,paso robles,CA,93446,UNITED STATES,123-456-7890,,,,,,,,,,,UNITED STATES,,,,Silver Club,No,No,,8/31/2021 4:02:03 PM,,8/11/1980 12:00:00 AM,,,,,,,,,0,,
+9844,Test,Test,ben.d@orderport.net,Support,1301 W 8th St,,eugene,OR,97403,UNITED STATES,203-623-1422,,Test,Test,ben.d@orderport.net,Support,1301 W 8th St,,eugene,OR,97403,UNITED STATES,203-623-1422,,,Consumer,No,No,,9/1/2021 1:11:57 PM,,1/1/1919 12:00:00 AM,1/1/1919 12:00:00 AM,,,,,,,,0,,
+9845,Tad,Radwell,tad@radwell.com,,,,,,,UNITED STATES,444-444-4444,,Tad,Radwell,tad@radwell.com,,,,,,,UNITED STATES,444-444-4444,,,Consumer,No,No,"(Date: 2021-09-01 14:45:23.4782686, Author: Customer, Note: Reservation: 6:00 PM / Tad Radwell / 4 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 10/08/2021&#x0D;
+	Time: 6:00 PM&#x0D;
+	Guests: 4&#x0D;
+	Reservation #: 162753&#x0D;
+	Order #: 3445&#x0D;
+	Prepaid: $20.00&#x0D;
+Contact Person&#x0D;
+	Tad Radwell&#x0D;
+	444-444-4444&#x0D;
+	tad@radwell.com&#x0D;
+Notes: &#x0D;
+	n/a)",9/1/2021 2:44:55 PM,,,,,,,,,,,0,20,
+9846,Tad,Radwelll,manager@oldoworldtastingroom.com,,,,,,,UNITED STATES,999-999-9999,,Tad,Radwelll,manager@oldoworldtastingroom.com,,,,,,,UNITED STATES,999-999-9999,,,Consumer,No,No,"(Date: 2021-09-01 14:47:29.7524349, Author: Customer, Note: Reservation: 3:00 PM / tad Radwelll / 4 people&#x0D;
+Details&#x0D;
+	Location: Very Fine Winery Bellevue Tasting Room&#x0D;
+	Date: 10/08/2021&#x0D;
+	Time: 3:00 PM&#x0D;
+	Guests: 4&#x0D;
+	Reservation #: 162755&#x0D;
+	Order #: 3446&#x0D;
+	Prepaid: $20.00&#x0D;
+Contact Person&#x0D;
+	tad Radwelll&#x0D;
+	999-999-9999&#x0D;
+	manager@oldoworldtastingroom.com&#x0D;
+Notes: &#x0D;
+	Test this out)",9/1/2021 2:47:22 PM,,,,,,,,,,,0,20,
+9852,Andy,Mac,andy@mac.net,,,,,,,UNITED STATES,,,,,,,,,,,,UNITED STATES,,,,Friends and Family,Yes,No,,9/1/2021 3:35:08 PM,,1/1/1960 12:00:00 AM,,,,,,,,,0,175.45,
