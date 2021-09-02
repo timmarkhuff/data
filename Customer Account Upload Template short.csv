@@ -1,0 +1,6 @@
+﻿ClassOrClub,BillingFirstName,BillingLastName,BillingCompany,BillingAddress,BillingAddress2,BillingCity,BillState,BillZipCode,BillCountry,BillPhone,BillEmail,Pickup,CustNum
+"Required, must match an existing customer class  in OrderPort.  Please add clubs and classes  in OrderPort before sending data",Required,Required,Optional,Recommended for club members,Optional,Recommended for club members,Recommended for club members,Recommended for club members,Recommended for club members,Recommended for club members,"Required, This field must be unique, no duplicates","Required for wine club members
+Y/N","Optional, we recommend that you include the customer number from your previous system, if possible."
+Gold Club,Stephen,Ratzlaff,ABC Co.,123 Main St,Suite 111,Seattle,WA,98112,UNITED STATES,222-222-2222,stephen@orderport.net,N,14859
+Silver Club,Tim,Huff,,12826 SE 40th Lane,Suite 200,Bellevue,WA,98006,UNITED STATES,222-222-2222,timh@orderport.net,Y,25896
+Consumer,Rick ,Belisle,,,,,,,,,rick@orderport.net,,17895
